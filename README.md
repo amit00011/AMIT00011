@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Amit</h1>
+<h3 align="center">A passionate Full-Stack MERN Developer </h3>
 
-<!--
-**amit00011/AMIT00011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌟 I love building scalable and responsive web applications using the MERN stack.  
+💡 I believe in writing clean, maintainable code and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack:
+
+- 💻 Frontend: **React.js**, HTML5, CSS3, Tailwind CSS, Bootstrap  
+- 🛠️ Backend: **Node.js**, Express.js  
+- 🗄️ Database: **MongoDB**  
+- 📦 Tools: Git, GitHub, VS Code, Postman  
+
+---
+
+### 🔗 Let's Connect:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/amit2003/)
+- 📧 Email: amit731460@gmail.com
+
+---
+
+⭐️ Don’t forget to star your favorite projects!
